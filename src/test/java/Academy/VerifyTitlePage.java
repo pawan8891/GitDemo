@@ -39,6 +39,8 @@ public void verifyTitle() throws IOException, InterruptedException
 	log.info("FEATURED COURSES text is verified");
 	System.out.println("Pawan");
 	System.out.println("Goswami");
+	System.out.println("Pawan");
+	System.out.println("Goswami");
 	
 }
 
