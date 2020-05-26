@@ -37,6 +37,8 @@ public void verifyTitle() throws IOException, InterruptedException
 	log.info("No Thanks link clicked");
 	Assert.assertEquals(lp.verifyTitle().getText(),"FEATURED COU123RSES");
 	log.info("FEATURED COURSES text is verified");
+	System.out.println("Pawan");
+	System.out.println("Goswami");
 	
 }
 
