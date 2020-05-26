@@ -1,0 +1,6 @@
+02:41:31.657 [TestNG-tests-1] INFO  Academy.VerifyNavMenu - Navigated to URL
+02:41:31.907 [Forwarding newSession on session null to remote] INFO  Academy.VerifyTitlePage - Navigated to URL
+02:41:31.665 [TestNG-tests-2] INFO  Academy.HomePageLogin - Navigated to URL
+02:41:32.610 [Forwarding newSession on session null to remote] INFO  Academy.VerifyTitlePage - No Thanks link clicked
+02:41:32.610 [TestNG-tests-1] INFO  Academy.VerifyNavMenu - No Thanks link clicked
+02:41:33.625 [TestNG-tests-1] INFO  Academy.VerifyNavMenu - Verified Nav header is displayed
